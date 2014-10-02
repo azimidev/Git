@@ -1,3 +1,4 @@
-Git Basics
----------------------
-I'm learning the basics of Git and Github so this is just for experiment.
+Github for Web Designers
+========================
+
+Hi! Welcome to the companion reference to my parsclick.net Github for Web Designers course. This reference also serves as the exercise files for my course, so you can download the exercise files from this repo as well.
